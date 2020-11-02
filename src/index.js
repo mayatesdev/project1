@@ -8,6 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  <h1>test1</h1>
   document.getElementById('root')
 );
 
